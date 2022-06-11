@@ -1,0 +1,18 @@
+.plant-desc {
+    width: 65%;
+    
+}
+
+body {
+    background-color: rgba(30, 100, 20, 0.733);
+    grid: center;
+    display: grid;
+    place-items: center;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: black 5px solid;
+}
